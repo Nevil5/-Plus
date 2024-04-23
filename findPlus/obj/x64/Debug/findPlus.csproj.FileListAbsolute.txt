@@ -1,0 +1,13 @@
+F:\ДДМА\3 Курс\2а семестр\ОБДЗ Курсова робота\АІС для роботи бюро знахідок\findPlus\findPlus\bin\x64\Debug\Bureau of finds.accdb
+F:\ДДМА\3 Курс\2а семестр\ОБДЗ Курсова робота\АІС для роботи бюро знахідок\findPlus\findPlus\bin\x64\Debug\findPlus.exe.config
+F:\ДДМА\3 Курс\2а семестр\ОБДЗ Курсова робота\АІС для роботи бюро знахідок\findPlus\findPlus\bin\x64\Debug\findPlus.exe
+F:\ДДМА\3 Курс\2а семестр\ОБДЗ Курсова робота\АІС для роботи бюро знахідок\findPlus\findPlus\bin\x64\Debug\findPlus.pdb
+F:\ДДМА\3 Курс\2а семестр\ОБДЗ Курсова робота\АІС для роботи бюро знахідок\findPlus\findPlus\obj\x64\Debug\findPlus.csproj.AssemblyReference.cache
+F:\ДДМА\3 Курс\2а семестр\ОБДЗ Курсова робота\АІС для роботи бюро знахідок\findPlus\findPlus\obj\x64\Debug\findPlus.csproj.SuggestedBindingRedirects.cache
+F:\ДДМА\3 Курс\2а семестр\ОБДЗ Курсова робота\АІС для роботи бюро знахідок\findPlus\findPlus\obj\x64\Debug\findPlus.Form1.resources
+F:\ДДМА\3 Курс\2а семестр\ОБДЗ Курсова робота\АІС для роботи бюро знахідок\findPlus\findPlus\obj\x64\Debug\findPlus.Properties.Resources.resources
+F:\ДДМА\3 Курс\2а семестр\ОБДЗ Курсова робота\АІС для роботи бюро знахідок\findPlus\findPlus\obj\x64\Debug\findPlus.csproj.GenerateResource.cache
+F:\ДДМА\3 Курс\2а семестр\ОБДЗ Курсова робота\АІС для роботи бюро знахідок\findPlus\findPlus\obj\x64\Debug\findPlus.csproj.CoreCompileInputs.cache
+F:\ДДМА\3 Курс\2а семестр\ОБДЗ Курсова робота\АІС для роботи бюро знахідок\findPlus\findPlus\obj\x64\Debug\findPlus.exe
+F:\ДДМА\3 Курс\2а семестр\ОБДЗ Курсова робота\АІС для роботи бюро знахідок\findPlus\findPlus\obj\x64\Debug\findPlus.pdb
+F:\ДДМА\3 Курс\2а семестр\ОБДЗ Курсова робота\АІС для роботи бюро знахідок\findPlus\findPlus\obj\x64\Debug\findPlus.Form2.resources
